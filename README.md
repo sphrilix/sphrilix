@@ -57,7 +57,6 @@
 ### 🚀 Projects
 
 - **[styler2.0](https://github.com/sphrilix/styler2.0)** — ML-based repair of Checkstyle violations, from my M.Sc. thesis *NeuroCodeStylist*
-- **[developer-productivity-evaluation](https://github.com/sphrilix/developer-productivity-evaluation)**
 
 ---
 
