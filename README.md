@@ -18,7 +18,6 @@
 - 🎓 PhD candidate at the **University of Passau** (Chair of Software Engineering II, supervised by Prof. Gordon Fraser)
 - 🧪 Research interests: **CI/CD**, **test optimisation**, **flaky tests**, **ML for software engineering**
 - 🏆 Best Paper Award, CCIW @ ICST 2026
-- 🛟 Off-screen: Technical Director at **Wasserwacht Hauzenberg** (water rescue), certified paramedic, water rescuer & boat operator
 
 ### 🛠️ Tech I work with
 
