@@ -14,8 +14,7 @@
 
 ### 🔬 About me
 
-- 🚗 Doctoral researcher in BMW Group's **ProMotion** programme, working on **predictive optimisations for CI at scale**
-- 🎓 PhD candidate at the **University of Passau** (Chair of Software Engineering II, supervised by Prof. Gordon Fraser)
+- 🎓 Industrial PhD researcher at **BMW Group** (ProMotion programme) in collaboration with the **University of Passau**, supervised by Prof. Gordon Fraser — researching **predictive optimisations for Continuous Integration at scale**
 - 🧪 Research interests: **CI/CD**, **test optimisation**, **flaky tests**, **ML for software engineering**
 - 🏆 Best Paper Award, CCIW @ ICST 2026
 
