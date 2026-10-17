@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maximilian 👋</h1>
 
 <p align="center">
-  <b>Doctoral Researcher @ BMW Group &nbsp;·&nbsp; PhD Candidate @ University of Passau</b><br/>
+  <b>Industrial PhD Candidate @ BMW Group &amp; University of Passau</b><br/>
   Making large-scale Continuous Integration faster with machine learning.
 </p>
 
@@ -14,7 +14,7 @@
 
 ### 🔬 About me
 
-- 🎓 Industrial PhD researcher at **BMW Group** (ProMotion programme) in collaboration with the **University of Passau**, supervised by Prof. Gordon Fraser — researching **predictive optimisations for Continuous Integration at scale**
+- 🎓 Industrial PhD candidate at **BMW Group** (ProMotion programme) in collaboration with the **University of Passau**, supervised by Prof. Gordon Fraser — researching **predictive optimisations for Continuous Integration at scale**
 - 🧪 Research interests: **CI/CD**, **test optimisation**, **flaky tests**, **ML for software engineering**
 - 🏆 Best Paper Award, CCIW @ ICST 2026
 
